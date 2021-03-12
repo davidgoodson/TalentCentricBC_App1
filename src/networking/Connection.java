@@ -10,5 +10,7 @@ package networking;
  * @author david
  */
 public class Connection {
-    
+    protected void initConnection(){
+        
+    }
 }
